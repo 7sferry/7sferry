@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on any open sources I could
 - 🤔 I’m looking for help with any fresh idea
 - 💬 Ask me about Java or technology related things
-- 📫 How to reach me: linkedin.com/7sferry or facebook.com/7sferry
+- 📫 How to reach me: https://linkedin.com/7sferry or https://facebook.com/7sferry
 - 😄 Pronouns: Seven eS Ferry
 - ⚡ Fun fact: I don't eat chicken!
 
