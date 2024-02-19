@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on Gatsby Google Analytics 4 Data Reporting API
-- 🌱 I’m currently learning Java, Spring Boot, Javascript, Design Architecture, Code Principles
+- 🌱 I’m currently learning Java, Spring Boot, Javascript, Typescript, Design Architecture, Code Principles, etc.
 - 👯 I’m looking to collaborate on any open sources I could
 - 🤔 I’m looking for help with any fresh idea
 - 💬 Ask me about Java or technology related things
