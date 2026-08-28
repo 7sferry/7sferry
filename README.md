@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://linkedin.com/in/7sferry or https://ferry.vercel.app or https://facebook.com/7sferry
 - ⚡ Fun fact: I don't eat chicken!
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=7sferry&count_private=true&show_icons=true&theme=darcula&layout=compact&locale=id" alt="Sikumbang"/></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=7sferry&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=7sferry&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7sferry&theme=dracula&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
