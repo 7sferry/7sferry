@@ -11,5 +11,5 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=7sferry&layout=compact&langs_count=10&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=7sferry&layout=compact&langs_count=10&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7sferry&theme=dracula&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7sferry&theme=dracula&locale=en&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
